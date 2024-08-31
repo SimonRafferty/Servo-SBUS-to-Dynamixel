@@ -28,7 +28,8 @@ The board has 4 settings switches with the following functions:
 
 4 - PPM / SBUS
 
- 
+
+If you just want to talk to Dynamixel servos from your own project, I've shared a simple circuit + PCB here https://oshwlab.com/simonrafferty/dynamixel-cnc-i-o-module_copy
 
 You need to cycle the power if you change a setting.
 
